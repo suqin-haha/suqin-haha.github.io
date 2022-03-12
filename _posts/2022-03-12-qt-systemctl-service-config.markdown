@@ -37,6 +37,6 @@ Environment="XAUTHORITY=/home/pi/.Xauthority"
 ```
 
 ## 参考
-[1. https://www.kryii.com/12.html](https://www.kryii.com/12.html)
-[2. https://forum.qt.io/topic/133449/starting-qt-app-as-a-systemd-service/16](https://forum.qt.io/topic/133449/starting-qt-app-as-a-systemd-service/16)
-[3. https://systemd.io/DESKTOP_ENVIRONMENTS/](https://systemd.io/DESKTOP_ENVIRONMENTS/)
+[1. https://www.kryii.com/12.html](https://www.kryii.com/12.html)  
+[2. https://forum.qt.io/topic/133449/starting-qt-app-as-a-systemd-service/16](https://forum.qt.io/topic/133449/starting-qt-app-as-a-systemd-service/16)  
+[3. https://systemd.io/DESKTOP_ENVIRONMENTS/](https://systemd.io/DESKTOP_ENVIRONMENTS/)  
