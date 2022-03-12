@@ -61,7 +61,7 @@ sudo systemctl enable shadowsocks-libev-local@local.service
 
 
 ## References
-1. http://claude-ray.com/2018/12/01/ss-local/
-2. https://github.com/shadowsocks/shadowsocks-libev
-3. https://unix.stackexchange.com/questions/396978/specifier-resolution-i-and-i-difference
-4. https://www.freedesktop.org/software/systemd/man/systemd.unit.html
+[1. http://claude-ray.com/2018/12/01/ss-local/](http://claude-ray.com/2018/12/01/ss-local/)
+[2. https://github.com/shadowsocks/shadowsocks-libev](https://github.com/shadowsocks/shadowsocks-libev)
+[3. https://unix.stackexchange.com/questions/396978/specifier-resolution-i-and-i-difference](https://unix.stackexchange.com/questions/396978/specifier-resolution-i-and-i-difference)
+[4. https://www.freedesktop.org/software/systemd/man/systemd.unit.html](https://www.freedesktop.org/software/systemd/man/systemd.unit.html)
