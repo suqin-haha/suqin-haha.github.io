@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "debug front-end input"
+date:   2022-03-12 21:02:00 -0600
+categories: tid, front-end, browser
+---
+
+A way to debug the inputs when front-end calls API. 
+
+F12 for dev dashbord and go to network to find the API link, then you can see all the information about the request, even all the values.
